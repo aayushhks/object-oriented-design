@@ -10,3 +10,6 @@
 /modules.xml
 /vcs.xml
 /out
+*.iml
+*.class
+/.idea
