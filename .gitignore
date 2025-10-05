@@ -11,5 +11,5 @@
 /vcs.xml
 /out
 *.iml
-*.class
+/src/*.class
 /.idea
